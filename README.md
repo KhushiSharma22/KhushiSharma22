@@ -17,7 +17,6 @@ I am a Computer Science Sophomore who loves contributing to communities. I have 
 <a href="https://twitter.com/khushisharma_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushisharma_22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-sharma-2201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/khushi-sharma-2201/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_._khushi.sharma_._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_._khushi.sharma_._/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/equicode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="equicode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +24,18 @@ I am a Computer Science Sophomore who loves contributing to communities. I have 
 
 
 ---
+
+### 📺 YouTube Videos with EquiCode
+
+<!-- YOUTUBE:START -->
+- [#ChooseToChallenge - IWD,21 Panel](https://youtu.be/0wPc3WH8MJw)
+- [Grand Finale with the First GitHub Star of the Year : Eddie Jaoude](https://youtu.be/G6ZfLQVpOhQ)
+- [Looking Beyond Tech](https://youtu.be/dkFiyfSdIT4)
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/equicode)
+
+---
+
 
