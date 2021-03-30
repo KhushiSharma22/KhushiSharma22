@@ -38,4 +38,12 @@ I am a Computer Science Sophomore who loves contributing to communities. I have 
 
 ---
 
+### 📺 Collaboration videos 
+
+<!-- YOUTUBE:START -->
+- [Basic web page with Kotlin and React](https://youtu.be/uI3sjvuoPpc)
+- [Top Guild Leader| All Together| MLH LHD : BUILD](https://youtu.be/Oxn1wnXcsLk)
+- [How to go freelancing for students, juniors to seniors!](https://youtu.be/9ifDcq89Gws)
+
+<!-- YOUTUBE:END -->
 
