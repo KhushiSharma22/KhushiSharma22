@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A misfit trying to create her own world of aspirations!</h3>
 
+- **About Me:** I am a Computer Science Sophomore who loves contributing to communities. I have been actively working with **EquiCode** to shift the paradigm around how Consumers of technology can perceive the world as the Creators of it. 
+
 - 🌱 I’m currently learning **Android Dev and Kotlin**
 
 - 💬 Ask me about **DevRel, Communities**
 
 - 📫 How to reach me **twitter.com/khushiSharma_22**
+
+- 🤝 Want to know more about EquiCode **linktr.ee/Equicode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
