@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A misfit trying to create her own world of aspirations!</h3>
 
-I am a Computer Science Sophomore who loves contributing to communities. I have been actively working with **EquiCode** to shift the paradigm around how Consumers of technology can perceive the world as the Creators of it. 
+I am a Computer Science Sophomore who loves contributing to communities. I have been actively working with [EquiCode](https://linktr.ee/Equicode) to shift the paradigm around how Consumers of technology can perceive the world as the Creators of it. 
 
 
 - 🌱 I’m currently learning **Android Dev and Kotlin**
